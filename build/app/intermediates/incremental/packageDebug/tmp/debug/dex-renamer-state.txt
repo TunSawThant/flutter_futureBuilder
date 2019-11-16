@@ -1,0 +1,4 @@
+#Sat Nov 16 16:39:21 MMT 2019
+base.0=E\:\\tunsawthant\\november\\nov_16_2019\\flutter_futureBuilder\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
